@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">More Meals</string>
+    <string name="safe_boy_image">Safe boy delivering packages</string>
+    <string name="regi_first_name">First Name</string>
+    <string name="regi_last_name">Last Name</string>
+    <string name="regi_address">Address</string>
+    <string name="regi_email">Email</string>
+    <string name="regi_password">Password</string>
+    <string name="regi_register">Register</string>
+    <string name="regi_text">text</string>
 </resources>
