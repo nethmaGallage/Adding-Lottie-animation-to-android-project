@@ -21,13 +21,18 @@
 
     <Button
         android:id="@+id/register"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="508dp"
+        android:layout_width="191dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:gravity="center"
         android:text="Register"
+        android:textSize="18sp"
+        app:backgroundTint="#FF6331"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/firstName" />
+        app:layout_constraintTop_toBottomOf="@+id/password" />
 
     <EditText
         android:id="@+id/lastName"

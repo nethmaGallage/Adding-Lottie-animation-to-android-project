@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383937831872",
+    "project_id": "more-meals",
+    "storage_bucket": "more-meals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383937831872:android:befda74dd8c292969e1e25",
+        "android_client_info": {
+          "package_name": "gloginexample.example.moremeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383937831872-sfk5hm7tt6l0b468j736jspmsgtb4e7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuhqEz3esp8dbRUDEsAZqQ9bAbTHv3Tnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383937831872-sfk5hm7tt6l0b468j736jspmsgtb4e7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

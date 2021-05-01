@@ -8,4 +8,11 @@
     <string name="regi_password">Password</string>
     <string name="regi_register">Register</string>
     <string name="regi_text">text</string>
+    <string name="frontText">Safe Delivery to your doorstep !</string>
+    <string name="statysafe">Stay Safe ! Stay Happy !</string>
+    <string name="logintext">Login</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="forgetpasswordText">Forget Your Password</string>
+    <string name="orloginwithText">or Login with</string>
+    <string name="donthaveaccountText">don\'t have an Account ?</string>
 </resources>
